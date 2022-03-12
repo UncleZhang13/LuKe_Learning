@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Uncle/Desktop/SV_File/EXAM/lab4
+Yarb_intf
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1646570910
+!i10b 1
+!s100 ja<`WHA[Dj3mhljIT:Tn02
+I^:jjd9_b:Ed3lEkJ94X6?0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 tb_sv_unit
+S1
+R0
+Z5 w1646570880
+Z6 8.\tb.sv
+Z7 F.\tb.sv
+L0 36
+Z8 OL;L;10.6c;65
+r1
+!s85 0
+31
+Z9 !s108 1646570910.000000
+!s107 param_def.v|.\tb.sv|
+Z10 !s90 .\tb.sv|
+!i113 0
+Z11 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0
+Ychnl_intf
+R1
+R2
+!i10b 1
+!s100 `_n>D942EB=BLnH=G>ldJ1
+IX>WT`3L2<:?<YDz;A?EI91
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+Z13 !s107 param_def.v|.\tb.sv|
+R10
+!i113 0
+R11
+R12
+Yfmt_intf
+R1
+R2
+!i10b 1
+!s100 ?HNIYGnYiZBB0I;2^IZG?1
+I6S@JQ2c41oMdld?U^63kA1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 40
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 0
+R11
+R12
+Ymcdf_intf
+R1
+R2
+!i10b 1
+!s100 X?M@37_ALfNgcEm9:7ciR0
+Id4=OZAzi8BFbYbGeXTX@@0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 59
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 0
+R11
+R12
+Yreg_intf
+R1
+R2
+!i10b 1
+!s100 Y[RYVZiZ`kfO@9EMj9PU91
+Ij7^0d6IH7ho4>znBkW^`O1
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 20
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 0
+R11
+R12

@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Uncle/Desktop/MCDT
+varbiter
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 WP:o[HjjD0dDYj[Z=L?U20
+IeaJ8SIfHYHHKLG2N:;]gc3
+Z1 dC:/Users/Uncle/Desktop/SV File/EXAM/lab0
+w1639644177
+8C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/arbiter.v
+FC:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/arbiter.v
+L0 5
+Z2 OL;L;10.6c;65
+Z3 !s108 1642928016.000000
+!s107 C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/arbiter.v|
+!s90 -reportprogress|300|-work|Exam|-vopt|-stats=none|C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/arbiter.v|
+!i113 0
+Z4 o-work Exam -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vmcdt
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 ;d:CKaUJN@kC@I0;XK=<V3
+IR]gLfnY412;lf^H1k=3@l2
+R1
+w1642928005
+8C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/mcdt.v
+FC:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/mcdt.v
+L0 5
+R2
+R3
+!s107 C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/mcdt.v|
+!s90 -reportprogress|300|-work|Exam|-vopt|-stats=none|C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/mcdt.v|
+!i113 0
+R4
+R5
+vslave_fifo
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 1LRmCDhOihg`i78`dJOe30
+IK>i[LKz2ajocA;NK9:ZJo1
+R1
+w1639644182
+8C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/slave_fifo.v
+FC:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/slave_fifo.v
+L0 5
+R2
+R3
+!s107 C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/slave_fifo.v|
+!s90 -reportprogress|300|-work|Exam|-vopt|-stats=none|C:/Users/Uncle/Desktop/SV File/EXAM/mcdt/v1/slave_fifo.v|
+!i113 0
+R4
+R5
+vtb1
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 g[mCDjRGYbBG@AMzj?lXF2
+IF0`CB;S6CRHcWP>ci@91d0
+R1
+w1642927997
+8C:/Users/Uncle/Desktop/SV File/EXAM/lab0/tb1.v
+FC:/Users/Uncle/Desktop/SV File/EXAM/lab0/tb1.v
+L0 3
+R2
+R3
+!s107 C:/Users/Uncle/Desktop/SV File/EXAM/lab0/tb1.v|
+!s90 -reportprogress|300|-work|Exam|-vopt|-stats=none|C:/Users/Uncle/Desktop/SV File/EXAM/lab0/tb1.v|
+!i113 0
+R4
+R5
